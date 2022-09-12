@@ -7,7 +7,6 @@ type __Props = {
     imageUrl: string,
     id: string,
     size: number,
-
 }
 
 const __: React.FC<__Props> = (props) => {
