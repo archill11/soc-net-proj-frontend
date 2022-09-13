@@ -19,4 +19,4 @@ const __: React.FC<__Props> = (props) => {
    )
 }
 
-export {__}git 
+export {__}
